@@ -1,0 +1,34 @@
+{
+  "common": {
+    "welcome": "Terapiyo'ya Hoş Geldiniz",
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "search": "Ara",
+    "profile": "Profil",
+    "settings": "Ayarlar",
+    "logout": "Çıkış Yap",
+    "help": "Yardım"
+  },
+  "auth": {
+    "email": "E-posta",
+    "password": "Şifre",
+    "forgotPassword": "Şifremi Unuttum",
+    "rememberMe": "Beni Hatırla"
+  },
+  "therapist": {
+    "findTherapist": "Terapist Bul",
+    "makeAppointment": "Randevu Al",
+    "specialties": "Uzmanlık Alanları",
+    "experience": "Deneyim",
+    "education": "Eğitim",
+    "certificates": "Sertifikalar"
+  },
+  "appointment": {
+    "schedule": "Randevu Planla",
+    "date": "Tarih",
+    "time": "Saat",
+    "duration": "Süre",
+    "type": "Görüşme Tipi",
+    "confirm": "Onayla"
+  }
+}

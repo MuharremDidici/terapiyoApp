@@ -1,0 +1,33 @@
+{
+  "common": {
+    "welcome": "Welcome to Terapiyo",
+    "login": "Login",
+    "register": "Register",
+    "search": "Search",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password",
+    "rememberMe": "Remember Me"
+  },
+  "therapist": {
+    "findTherapist": "Find Therapist",
+    "makeAppointment": "Make Appointment",
+    "specialties": "Specialties",
+    "experience": "Experience",
+    "education": "Education",
+    "certificates": "Certificates"
+  },
+  "appointment": {
+    "schedule": "Schedule Appointment",
+    "date": "Date",
+    "time": "Time",
+    "duration": "Duration",
+    "type": "Session Type",
+    "confirm": "Confirm"
+  }
+}
